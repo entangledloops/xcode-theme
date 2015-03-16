@@ -1,4 +1,4 @@
-## My Xcode Theme ##
+## EntangledLoops Xcode Theme ##
 
 ![xcode theme](http://www.entangledloops.com/img/xcode-theme.png)
 
