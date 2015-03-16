@@ -6,6 +6,6 @@ If you like my theme, just download the EntangledLoops.dvtcolortheme file and pa
 `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
 
 You will now have an additional theme "EntangledLoops" under:
-Xcode -> Preferences -> Fonts & Colors
+`Xcode -> Preferences -> Fonts & Colors`
 
 Should work fine with all xcode versions.
